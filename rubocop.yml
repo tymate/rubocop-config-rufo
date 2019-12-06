@@ -1,10 +1,10 @@
 Layout/AccessModifierIndentation:
   Enabled: false
 
-Layout/AlignArray:
+Layout/ArrayAlignment:
   Enabled: false
 
-Layout/AlignHash:
+Layout/HashAlignment:
   Enabled: false
 
 # Layout/AlignParameters
@@ -94,7 +94,7 @@ Layout/IndentFirstArgument:
 Layout/IndentFirstArrayElement:
   Enabled: false
 
-Layout/IndentAssignment:
+Layout/AssignmentIndentation:
   Enabled: false
 
 Layout/IndentFirstHashElement:
@@ -211,7 +211,7 @@ Layout/SpaceInsideStringInterpolation:
 Layout/Tab:
   Enabled: false
 
-Layout/TrailingBlankLines:
+Layout/TrailingEmptyLines:
   Enabled: false
 
 Layout/TrailingWhitespace:
